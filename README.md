@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/roberthamel/trms-client.png?columns=all)](https://waffle.io/roberthamel/trms-client?utm_source=badge)
 # YaTRMS
 
 ## Tuition Reimbursement Management System (TRMS)
